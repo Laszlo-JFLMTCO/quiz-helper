@@ -1,3 +1,14 @@
+# Quiz Helper
+This mini project was created for two reasons:  
+1. During COVID-19 lockdown, we had regular happy hour calls with friends. Through these calls, each week someone else from the team brought quiz type questions related to various topics. Whenever guessing was involved, this simple tool came handy to give a quick feedback to whose guess was the closest to the correct answer.
+2. I was already looking for a way to play around with states in ReactJS.
+
+Not included:  
+- tests => boooooo!
+- not much error handling, so make sure you enter numbers :)
+
+---
+Original README content after generating react app:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
